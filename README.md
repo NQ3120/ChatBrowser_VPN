@@ -40,6 +40,10 @@
 如果你对 [chatbrowser](https://manual.chatbrowser.top/) 感兴趣，为什么不试用一下呢？你会发现，畅享无限自由上网，观看4K视频不再是梦想，而是变成了现实。
 
 不再受限于网络封锁，不再忍受缓慢的网络速度，选择 [chatbrowser](https://manual.chatbrowser.top/)，让你的网络体验焕然一新。现在就体验吧！
+价格也实惠美丽
+
+![image](https://github.com/NQ3120/ChatBrowser_VPN/assets/148845174/fbcb3a3e-71cf-4be0-b6a6-cde1510e2820)
+
 
 ### 常见问题
 1、网速偶尔出现卡顿， 可以尝试重连或者切换服务器看看，同时，看看本地自己网速卡不卡，如果是本地网速卡，那就跟节点没有关系。
